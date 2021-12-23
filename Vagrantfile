@@ -26,7 +26,7 @@ Vagrant.configure("2") do |config|
     end
   end
   
-  
+  #teste
 config.vm.provision "shell", path: "install_zabbix.sh"
 
   #config.vm.provision "shell", inline: <<-SHELL
