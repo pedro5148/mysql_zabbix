@@ -9,4 +9,4 @@ Porem os arquivos de log serao salvos no diretorio */home/vagrant*. <br>
 O segundo arquivo 'install_zabbix.sh' automatiza quase todo o processo de instalação de um servidor Zabbix 5 (conforme site oficial), devendo o usuário informar a senha do ROOT e do ZABBIX (linhas 21/31).
 
 
-###Lembrando que este passo a passo é apenas para laboratórios, não recomendado para produção.
+## Lembrando que este passo a passo é apenas para laboratórios, não recomendado para produção.
